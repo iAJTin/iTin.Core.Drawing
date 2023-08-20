@@ -18,5 +18,3 @@ How to use
 ----------
 
 C:\> xmldocmd MyLibrary.dll documentation
-
-
